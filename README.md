@@ -1,3 +1,4 @@
 # LinksVoor
 
-It is I!
+* functional programming
+* [functional programming](fp.md)
